@@ -2,8 +2,8 @@ import React from 'react'
 
 function Home() {
   return (
-    <div>
-      
+    <div className='flex items-center'>
+      <h1 className='text-[90px]'>Welcome To Nandini <br /> Hostel</h1>
     </div>
   )
 }
