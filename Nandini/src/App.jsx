@@ -10,7 +10,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <Home></Home>
-      <h2>hellow</h2>
+      
     </>
   )
 }
